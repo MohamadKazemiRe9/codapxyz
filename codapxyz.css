@@ -62,14 +62,6 @@ a:active { color:#bb5; text-decoration:none; font-weight:bold; }
     flex-wrap: wrap;
     /* height: 222px; */
 
-    /*
-    grid-template-columns : 280px 280px 280px;
-    grid-template-rows: 288px;      //  height
-    grid-auto-columns : 240px;
-    grid-auto-rows : 288px;
-    align-items: stretch;
-    *
-     */
 }
 
 .pluginBox {

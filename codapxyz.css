@@ -92,6 +92,16 @@ a:active { color:#bb5; text-decoration:none; font-weight:bold; }
 
 }
 
+.roundIcons {
+    position: absolute;
+    top: 6px;
+    right: 6px;
+}
+.infoIcon  {
+    width:  32px;
+    height: 32px;
+}
+
 .pluginBoxText    {
 //	color : #ff0;
     //  position: absolute;
@@ -101,13 +111,12 @@ a:active { color:#bb5; text-decoration:none; font-weight:bold; }
 }
 
 .pluginBox h2 {
-    font-size: 1.5em;
+    font-size: 1.2em;
     font-weight: bold;
     margin-block-start: 0.0em;
     margin-block-end: 0.0em;
 }
 
 .pluginBox p {
-    font-size: 1.0em;
-
+    font-size: 0.8em;
 }
